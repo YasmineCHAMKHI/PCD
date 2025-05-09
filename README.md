@@ -27,9 +27,4 @@ Application mobile destinée aux proches permettant de **surveiller en temps ré
    - *Backend* (Flask REST)  
    - *Base de données* (Firebase)   
 
-
-   - *Interface de profile*
-   - ![Image](https://github.com/user-attachments/assets/4b23cce2-d424-4343-98c2-e03ed1d896b9)                           ![Image](https://github.com/user-attachments/assets/10757671-dbe0-4131-916d-2c2538501a13)
-   
-
 ---
