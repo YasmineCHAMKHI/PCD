@@ -28,16 +28,10 @@ Application mobile destinée aux proches permettant de **surveiller en temps ré
    - *Base de données* (Firebase)   
 2. **Différentes interfaces développées** :
    - *Interfaces de démarrage et de bienvenue*
-   - <table>
-  <tr>
-    <td>
-      <img src="![Image](https://github.com/user-attachments/assets/e0e94b7d-c6f7-4c18-94b5-80ed9c607301)" alt="Démarrage" width="300"/>
-    </td>
-    <td>
-      <img src="![Image](https://github.com/user-attachments/assets/b688caf0-ab16-40a0-a544-e8cd66ab252d)" alt="Bienvenue" width="300"/>
-    </td>
-  </tr>
-</table>
+   - <p align="center">
+  <img src="![Image](https://github.com/user-attachments/assets/e0e94b7d-c6f7-4c18-94b5-80ed9c607301)" alt="Image 1" width="300" />
+  <img src="![Image](https://github.com/user-attachments/assets/b688caf0-ab16-40a0-a544-e8cd66ab252d)" alt="Image 2" width="300" />
+</p>
 
 
 ---
