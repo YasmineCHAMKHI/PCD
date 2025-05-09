@@ -10,7 +10,6 @@ Application mobile destinée aux proches permettant de **surveiller en temps ré
 - **Consultation de l’historique** filtrable par date
 - **Consultation des statistiques** filtrable par date
 - **Génération de rapports** personnalisés (PDF/CSV) pour analyses médicales ou partage
-- **Alertes & notifications** en cas d’absence prolongée ou de chute
 
 ## Étapes de réalisation du projet
 
@@ -28,6 +27,17 @@ Application mobile destinée aux proches permettant de **surveiller en temps ré
    - *Backend* (Flask REST)  
    - *Base de données* (Firebase)   
 2. **Différentes interfaces développées** :
-   
+   - *Interfaces de démarrage et de bienvenue*
+   - <table>
+  <tr>
+    <td>
+      <img src="![Image](https://github.com/user-attachments/assets/e0e94b7d-c6f7-4c18-94b5-80ed9c607301)" alt="Démarrage" width="300"/>
+    </td>
+    <td>
+      <img src="![Image](https://github.com/user-attachments/assets/b688caf0-ab16-40a0-a544-e8cd66ab252d)" alt="Bienvenue" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
